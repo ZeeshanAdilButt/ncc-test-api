@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCC", "NCC\NCC.csproj", "{B46755BA-9521-41AD-A680-E366CCE7551D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B46755BA-9521-41AD-A680-E366CCE7551D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46755BA-9521-41AD-A680-E366CCE7551D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46755BA-9521-41AD-A680-E366CCE7551D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46755BA-9521-41AD-A680-E366CCE7551D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA96B0FF-2F4B-4200-B402-C657E2301C24}
+	EndGlobalSection
+EndGlobal
